@@ -1,0 +1,7 @@
+Algoritmo diez_al_uno
+	n<-10
+	mientras n >= 1 Hacer
+		escribir n
+		n= n-1
+	FinMientras
+FinAlgoritmo
